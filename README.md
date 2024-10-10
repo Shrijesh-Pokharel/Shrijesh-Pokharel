@@ -1,7 +1,9 @@
 ![logo](https://github.com/Shrijesh-Pokharel/Shrijesh-Pokharel/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Shrijesh Pokharel</h1>
 <h3 align="center">A passionate Cyber Security and Ethical Hacker from Nepal</h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/shrijesh.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/shrijesh.png" alt="Your Image Badge" />
+
+
 
 <image align="right" alt="colding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
