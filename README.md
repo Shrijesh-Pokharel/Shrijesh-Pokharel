@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shrijesh.com.np/](https://shrijesh.com.np/)
 
-- 💬 Ask me about **HTML, CSS, JS, python, c, and linux**
+- 💬 Ask me about **HTML, CSS, JS, python, c, linux, etc**
 
 - 📫 How to reach me **shrijeshpokharel@proton.me**
 
