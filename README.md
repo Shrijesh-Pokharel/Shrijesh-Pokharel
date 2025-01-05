@@ -1,4 +1,4 @@
-![logo](https://github.com/Shrijesh-Pokharel/Shrijesh-Pokharel/blob/main/image.png)
+![logo](https://github.com/Shrijesh-Pokharel/Shrijesh-Pokharel/blob/main/LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shrijesh Pokharel</h1>
 <h3 align="center">A passionate Cyber Security and Ethical Hacker from Nepal</h3>
 
