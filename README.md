@@ -1,5 +1,6 @@
 ![logo](https://github.com/Shrijesh-Pokharel/Shrijesh-Pokharel/blob/main/LinkedIn%20Banner.png)
-<img src="https://tryhackme-badges.s3.amazonaws.com/Reekcah.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2088043" style='border:none;'></iframe>
+
 
 <h1 align="center">Hi 👋, I'm Shrijesh Pokharel</h1>
 <h3 align="center">A passionate Cyber Security and Ethical Hacker from Nepal</h3>
