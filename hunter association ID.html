@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hunter's License</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+
+    body {
+      min-height: 90vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #1e293b;
+      padding: 1rem;
+    }
+
+    .card {
+      width: 600px;
+      aspect-ratio: 1.586;
+      background: linear-gradient(135deg, #0369a1 0%, #075985 100%);
+      border-radius: 0.5rem;
+      padding: 1rem;
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+      position: relative;
+      height: 350px;
+    }
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 0.75rem;
+    }
+
+    .title {
+      color: white;
+      font-size: 1.125rem;
+      font-weight: bold;
+    }
+
+    .association {
+      color: #bae6fd;
+      font-size: 0.75rem;
+      text-decoration: none;
+    }
+
+    .association:hover {
+      color: white;
+    }
+
+    .content {
+      display: flex;
+      gap: 0.75rem;
+    }
+
+    .photo {
+      width: 5rem;
+      height: 5rem;
+      background-color: #111827;
+      border-radius: 0.25rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .photo-text {
+      color: #4b5563;
+      font-size: 0.75rem;
+    }
+
+    .info {
+      flex: 1;
+      color: white;
+    }
+
+    .field {
+      margin-bottom: 1rem;
+    }
+
+    .label {
+      color: #bae6fd;
+      font-size: 0.75rem;
+      margin-bottom: 0.125rem;
+    }
+
+    .value {
+      font-size: 0.875rem;
+    }
+
+    .license-number {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .number {
+      font-family: monospace;
+    }
+
+    .rank {
+      background-color: #111827;
+      padding: 0.125rem 0.5rem;
+      border-radius: 0.25rem;
+      font-weight: bold;
+    }
+
+    .categories {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0.25rem;
+    }
+
+    .category {
+      background-color: rgba(14, 165, 233, 0.2);
+      border-radius: 0.25rem;
+      padding: 0.25rem;
+      font-size: 0.75rem;
+      text-align: center;
+    }
+
+    .footer {
+      margin-top: 0.75rem;
+      padding-top: 0.5rem;
+      border-top: 1px solid rgba(14, 165, 233, 0.3);
+    }
+
+    .certification {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .chip {
+      width: 2rem;
+      height: 2rem;
+      background-color: rgba(245, 158, 11, 0.9);
+      border-radius: 0.25rem;
+    }
+
+    .certification-text {
+      color: #bae6fd;
+      font-size: 0.625rem;
+      line-height: 1.25;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="header">
+      <h1 class="title">Hacking License</h1>
+      <a href="#" class="association">Ethical Hacking</a>
+    </div>
+    
+    <div class="content">
+      <div class="photo">
+        <div class="photo-text">
+            <div>Photo</div>
+            <div>Here</div>
+        </div>
+      </div>
+      
+      <div class="info">
+        <div class="field">
+          <div class="label">License No.</div>
+          <div class="license-number">
+            <div class="number value">401058132519</div>
+            <div class="rank">S</div>
+          </div>
+        </div>
+        
+        <div class="field">
+          <div class="label">Name</div>
+          <div class="value" style="font-weight: 600;">Shrijesh Pokharel</div>
+        </div>
+        
+        <div class="field">
+          <div class="label">Category</div>
+          <div class="categories">
+            <div class="category">Pentester</div>
+            <div class="category">Ethical Hacker</div>
+            <div class="category">Web developer</div>
+            <div class="category"></div>
+            <div class="category"></div>
+            <div class="category"></div>
+            <div class="category"></div>
+            <div class="category"></div>
+            <div class="category"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="footer">
+      <div class="certification">
+        <div class="chip"></div>
+        <p class="certification-text">This individual has been studying Cyber Security.</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
