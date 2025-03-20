@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shrijeshpokharel@proton.me**
 
-- 💻 My tryhackme ID  <a href="https://tryhackme.com/r/p/Reekcah">Reekcah</a>
+- 💻 My tryhackme ID  <a href="https://tryhackme.com/r/p/ShriHax">ShriHax</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
