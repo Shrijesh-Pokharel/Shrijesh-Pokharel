@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shrijesh_20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrijesh_20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shrijesh-ethical-hacker" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrijesh-ethical-hacker" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shrijesh-Pokharel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrijesh-ethical-hacker" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19145493/shrijesh-pokharel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shrijesh-pokharel" height="30" width="40" /></a>
-<a href="https://instagram.com/root_shrijesh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="root_shrijesh" height="30" width="40" /></a>
+<a href="https://instagram.com/ssh_shrijesh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="root_shrijesh" height="30" width="40" /></a>
 
 </p>
 
